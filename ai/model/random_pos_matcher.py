@@ -1,6 +1,7 @@
 import random
 import urllib2
 
+from ai.model.helpers import remove_duplicate_tuples
 from ai.model.pos_detector import pos_pipeline
 
 
@@ -8,9 +9,6 @@ def sort_tuple(tup):
     tup.sort(key=lambda x: x[1], reverse=True)
     return tup
 
-
-def remove_duplicate_tuples(token_scores):
-    return list(dict(reversed(token_scores)).items())
 
 
 def nlp_tags(prompt):
