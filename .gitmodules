@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/realamirhe/dicaptcha-website
+[submodule "data"]
+	path = data
+	url = https://github.com/realamirhe/dicaptcha-data.git
