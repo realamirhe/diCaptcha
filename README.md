@@ -1,4 +1,8 @@
-# diCaptcha - Diffusion based Captcha
+# diCaptcha - Diffusion based Captcha 
+
+<a href="https://docs.google.com/presentation/d/1ARbmzb_C3B-hN-pEPFlt5jiScLO08jxrUn0mRA4ZI-I/edit?usp=sharing" title="Introduction slides">
+<img src="https://img.shields.io/badge/slides-%23E4637C.svg?&style=for-the-badge&logo=slides&logoColor=white" />
+</a>
 
 ## Inspiration 💡
 
@@ -6,6 +10,7 @@ Ever tried to select all boxes that have traffic lights showing up and confused 
 [![Captcha meme][1]][1]
 
 The inspiration comes from providing a better Captcha user experience while keeping security also in mind.
+
 
 ## What it does 🤖
 
