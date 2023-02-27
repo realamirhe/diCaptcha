@@ -1,7 +1,7 @@
 # diCaptcha - Diffusion based Captcha 
 
 <a href="https://docs.google.com/presentation/d/1ARbmzb_C3B-hN-pEPFlt5jiScLO08jxrUn0mRA4ZI-I/edit?usp=sharing" title="Introduction slides">
-<img src="https://img.shields.io/badge/slides-%23E4637C.svg?&style=for-the-badge&logo=slides&logoColor=white" />
+<img src="https://img.shields.io/badge/introduction%20slides-%23E4637C.svg?&style=for-the-badge&logo=slides&logoColor=white" />
 </a>
 
 ## Inspiration 💡
